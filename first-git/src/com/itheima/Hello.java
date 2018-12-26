@@ -13,4 +13,7 @@ public class Hello {
     public  static  void show (){
         System.out.println(1);
     }
+    public  static  void showw (){
+        System.out.println(1);
+    }
 }
