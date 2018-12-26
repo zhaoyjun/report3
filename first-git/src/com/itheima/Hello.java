@@ -10,4 +10,7 @@ public class Hello {
         System.out.println("hello world and git");
 
     }
+    public  static  void show (){
+        System.out.println(1);
+    }
 }
